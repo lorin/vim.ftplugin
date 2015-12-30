@@ -1,0 +1,10 @@
+{
+  "name": "Vim",
+  "version": "1.0.0",
+  "description": "Enable vim keybindings",
+  "homepage": "https://github.com/lorin/vim.ftplugin",
+  "engines": {
+    "foldingtext": ">2.0.0",
+    "taskpaper": ">3.0.0"
+  }
+}
