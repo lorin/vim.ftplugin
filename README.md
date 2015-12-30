@@ -1,8 +1,8 @@
 # FoldingText plugin to enable vim key bindings
 
-This [Folding Text][1] plugin enables Vim keybindings.
+This [FoldingText][1] plugin enables Vim keybindings.
 
-As per Jesse Grossjean (author of Folding Text), if you enable this, [you'll get
+As per Jesse Grossjean (author of FoldingText), if you enable this, [you'll get
 "something". But there are lots of problems.][2]
 
 
