@@ -5,11 +5,11 @@
 // - http://support.hogbaysoftware.com/t/vim-keymappings-please/270/4
 //
 define(function(require, exports, module) {
-	'use strict';
+    'use strict';
 
-	var Extensions = require('ft/core/extensions').Extensions;
+    var Extensions = require('ft/core/extensions').Extensions;
 
-	Extensions.addInit(function (editor) {
+    Extensions.addInit(function (editor) {
         editor.cm().setOption('vimMode', true);
-	}, Extensions.PriorityLast);
+    }, Extensions.PriorityLast);
 });
